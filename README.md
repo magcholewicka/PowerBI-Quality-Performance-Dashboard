@@ -33,5 +33,5 @@ Production and quality managers need a clear overview of quality metrics to iden
  
 ## Dashboard Preview
  
-dshboard-overview.png
-dashboard-overview_worst_line.png
+-dshboard-overview.png
+-dashboard-overview_worst_line.png
